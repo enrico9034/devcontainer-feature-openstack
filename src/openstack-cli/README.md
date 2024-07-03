@@ -5,7 +5,7 @@
 
 ```json
 "features": {
-    "ghcr.io/enrico9034/devcontainer-feature-openstack/openstack-cli:1": {}
+    "ghcr.io/enrico9034/devcontainer-features/openstack-cli:1": {}
 }
 ```
 
