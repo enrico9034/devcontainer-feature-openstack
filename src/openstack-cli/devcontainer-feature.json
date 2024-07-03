@@ -1,0 +1,14 @@
+{
+    "name": "Openstack CLI",
+    "id": "openstack-cli",
+    "version": "0.0.1",
+    "description": "Install openstack cli",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ],
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/python:1": {}
+    }
+}
